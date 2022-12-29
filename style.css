@@ -79,3 +79,21 @@ p {
     padding: 5px;
     padding-bottom: 40px;
 }
+
+.three{
+    background-color: lightgray;
+    text-align: center;
+    margin: 0;
+}
+h2{
+    text-emphasis: none;
+    font-size: 24px;
+    padding: 20px;
+    padding-bottom: 0;
+    font-weight: 100;
+}
+.cite{
+    padding-top: 0;
+    text-align: right;
+    padding: 20px;
+}
