@@ -89,11 +89,14 @@ h2{
     text-emphasis: none;
     font-size: 24px;
     padding: 20px;
-    padding-bottom: 0;
+    padding-bottom: 0px;
     font-weight: 100;
+    margin: 0;
 }
 .cite{
     padding-top: 0;
+    padding-bottom: 20px;
+    padding-right: 10px;
     text-align: right;
-    padding: 20px;
+    margin: 0px;
 }
